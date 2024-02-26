@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-woolf-hw-03-image-finder/static/css/main.afd9fda2.css",
+    "main.js": "/goit-react-woolf-hw-03-image-finder/static/js/main.d7755914.js",
+    "index.html": "/goit-react-woolf-hw-03-image-finder/index.html",
+    "main.afd9fda2.css.map": "/goit-react-woolf-hw-03-image-finder/static/css/main.afd9fda2.css.map",
+    "main.d7755914.js.map": "/goit-react-woolf-hw-03-image-finder/static/js/main.d7755914.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afd9fda2.css",
+    "static/js/main.d7755914.js"
+  ]
+}
